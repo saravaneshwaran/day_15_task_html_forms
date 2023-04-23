@@ -1,0 +1,37 @@
+form {
+  background-color: rgb(212, 205, 179);
+  color: rgb(0, 0, 0);
+  /* background-image: url("https://images.unsplash.com/photo-1630418886128-458aea8716d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"); */
+  background-size: cover;
+  
+}
+
+.col-sm-9{
+
+background-image: linear-gradient(120deg, #a6f2f2 0%, #c2e9fb 100%);
+}
+
+#formsub{
+ 
+  color: rgb(38, 57, 61);
+  text-transform: uppercase;
+  padding-top: 20px;
+  padding-left: 20px;
+  font-weight: bold;
+  font-size: 30px;
+  align-content: center;
+  display: flex;
+  justify-content: center;
+
+}
+
+.btn{
+background-color:blue;
+color:azure;
+}
+.form-group_bt{
+  padding-bottom: 65px;
+  align-content: center;
+  display: flex;
+  justify-content: center;
+}
